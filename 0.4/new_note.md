@@ -23,7 +23,7 @@ sequenceDiagram
     server-->>browser: Raw Data 
     deactivate server
 
-    Note over browser,server: callback function is executed to render the notes with the new one 
+    Note over browser,server: callback function is executed to render the notes with the new ones
 
     
   
